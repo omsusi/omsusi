@@ -65,7 +65,6 @@ When I'm not debugging or prompting, you can find me:
 <a href="https://www.instagram.com/omsubhra_singha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
 
 ### 🕸️ Featured Projects: The Sanfoundry Scraper Suite
 *Reliable, Image-Aware Data Extraction for Engineers*
