@@ -51,7 +51,6 @@ When I'm not debugging or prompting, you can find me:
   <img src="https://github-readme-stats.vercel.app/api?username=omsusi&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
