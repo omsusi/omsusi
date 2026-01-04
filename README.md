@@ -1,23 +1,64 @@
-# 💫 About Me:
-👋 Hi there, I'm Omsubhra<br>🎓 Engineering Graduate | AI & Software Enthusiast | DIY Maker<br>I am an Electronics and Communication Engineering (ECE) graduate with a deep-seated passion for the intersection of hardware logic and software creativity. Rather than sticking to one lane, I explore technology as an enthusiast, constantly learning and building.<br><br>🛠 What I’m Up To<br>Collaborative Building: I’m a firm believer in the power of AI-assisted development. Most of my successful projects have been built with AI as my primary thought partner, helping me bridge the gap between complex ideas and functional code.<br><br>Exploring AI/ML: I enjoy experimenting with machine learning models and web applications, focusing on practical tools that solve real-world problems.<br><br>ECE Roots: My foundation is in electronics, which gives me a unique perspective on how software interacts with the physical world.<br><br>🏋️‍♂️ Beyond the Code<br>When I’m not debugging or prompting, you can find me:<br><br>CrossFit: Pushing my limits and staying active.<br><br>DIY Engineering: I love building my own gym equipment.<br><br>Cycling: Exploring the roads on preferably a bicycle.
+# 👋 Hi, I'm Omsubhra 
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omsubhra.singha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omsubhra_singha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omsubhra-singha-30447a254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omsubhrasingha21@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omsusi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omsusi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omsusi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omsusi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ECE+Graduate;AI+%26+Software+Enthusiast;Custom+Web+Scraper;DIY+Maker+%26+Engineer" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omsusi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 About Me
+
+I am an **Electronics and Communication Engineering (ECE)** graduate who thrives at the intersection of hardware logic and software creativity. I don't just write code; I explore technology as a "builder-learner," using software to solve real-world problems and hardware to understand the physical foundation of tech.
+
+* **🤖 AI Thought-Partnering:** I leverage AI to bridge the gap between complex conceptual ideas and functional, optimized code.
+* **🕸 Data Extraction:** I have a deep interest in building **custom web scrapers**. I enjoy the challenge of architecting specialized tools to extract, clean, and structure data from across the web.
+* **📡 ECE Roots:** My background gives me a unique lens on low-level systems and how software interacts with the physical world.
+
+---
+
+### 🛠 Tech & Tools
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Data & Scraping** | Python (BeautifulSoup, Selenium, Scrapy), Data Structuring, Automation |
+| **AI / ML** | Neural Networks, Model Experimentation, Prompt Engineering |
+| **Development** | Web Applications, Python, AI-Assisted Coding |
+| **Hardware** | Circuit Design, Microcontrollers, Microcomputers, ECE Logic |
+
+---
+
+### 🏗 What I’m Up To
+
+- **Custom Scraping Solutions:** Developing bespoke scrapers for various purposes—from educational content extraction to market data gathering.
+- **Collaborative Building:** Focusing on projects where AI acts as a primary thought partner to accelerate development.
+- **AI/ML Exploration:** Experimenting with practical machine learning tools that have immediate real-world utility.
+
+---
+
+### 🏋️‍♂️ Beyond the Code
+
+When I'm not debugging or prompting, you can find me:
+
+* **CrossFit:** Pushing my physical limits and staying active.
+* **DIY Engineering:** Designing and building my own gym equipment from scratch.
+* **Cycling:** Exploring new roads and trails on two wheels.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omsusi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+<a href="https://linkedin.com/in/omsubhra-singha-30447a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:omsubhrasingha21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/omsubhra.singha"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/omsubhra_singha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
