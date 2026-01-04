@@ -68,3 +68,31 @@ When I'm not debugging or prompting, you can find me:
 <a href="https://www.facebook.com/omsubhra.singha"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/omsubhra_singha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
+
+### 🕸️ Featured Projects: The Sanfoundry Scraper Suite
+*Reliable, Image-Aware Data Extraction for Engineers*
+
+I specialize in building scrapers that don't just grab text, but preserve the integrity of the data. My Sanfoundry scrapers are designed to handle complex MCQ structures and embedded images, outputting beautifully formatted PDFs.
+
+* **[Sanfoundry Scraper (Web-based)](https://github.com/omsusi/sanfoundry-scraper):** Optimized for efficiency and clean data structure as a ready-to-deploy web application. Visit scraper4sanfoundry.qzz.io for reference.
+* **[Sanfoundry Scraper (PC-Based)](https://github.com/omsusi/sanfoundry-scraper-pc-based):** A robust version designed for local execution with high reliability.
+
+**Key Features:**
+- ✅ **Image Support:** Unlike most scrapers, these capture the diagrams essential for ECE/Technical MCQs.
+- ✅ **PDF Generation:** Automatically compiles scraped data into study-ready, formatted PDFs.
+- ✅ **Reliability over Speed:** Built to ensure complete data capture without missing questions.
+
+---
+
+### 💼 Custom Scraping Services
+**Need a specialized data extraction tool? I'm open for commissions.**
+
+I offer professional, custom-built scraping solutions tailored to your specific needs. Whether it's bypassing complex structures, capturing media, or generating specialized file formats (PDF, Excel, JSON), I deliver reliable and maintainable code.
+
+* **Service Guarantee:** High-fidelity data, clean formatting, and documentation.
+* **Pricing:** Based on project complexity.
+* **Inquiries:** Reach out via [LinkedIn](https://linkedin.com/in/omsubhra-singha-30447a254) or [Email](mailto:omsubhrasingha21@gmail.com) for a quote.
+
+---
