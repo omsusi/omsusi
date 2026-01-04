@@ -48,8 +48,15 @@ When I'm not debugging or prompting, you can find me:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsusi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omsusi&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Omsubhra's github stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&layout=compact&theme=radical" alt="Omsubhra's Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omsusi&theme=radical&column=7" alt="github trophy" />
 </p>
 ---
 
