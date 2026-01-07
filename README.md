@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Omsubhra
 
 <p align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ECE+Graduate;AI+%26+Software+Enthusiast;Custom+Web+Scraper;Full-Stack+Developer;Embedded+Systems+Engineer](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DECE%2BGraduate%3BAI%2B%2526%2BSoftware%2BEnthusiast%3BCustom%2BWeb%2BScraper%3BFull-Stack%2BDeveloper%3BEmbedded%2BSystems%2BEngineer)" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ECE+Graduate;AI+%26+Software+Enthusiast;Custom+Web+Scraper;DIY+Maker+%26+Engineer" alt="Typing SVG" />
+
 </p>
 
 ---
