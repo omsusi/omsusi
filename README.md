@@ -32,7 +32,7 @@ I am an **Electronics and Communication Engineering (ECE)** graduate operating a
 
 ### 🏗 Featured Projects
 
-#### [VANI-Edge: Indic-Edge-Scribe](https://github.com/omsusi/EdgeAI-Lecture-Summarizer)
+#### [Edge-AI Lecture Summarizer](https://github.com/omsusi/EdgeAI-Lecture-Summarizer)
 
 *Accent-Tuned Edge-AI for Automated Transcription & Summarization*
 
@@ -44,7 +44,7 @@ I am an **Electronics and Communication Engineering (ECE)** graduate operating a
 
 *Military-Themed CrossFit Management & Performance Tracker*
 
-* **The Goal:** A high-performance web dashboard for athletes mastering DIY gym equipment.
+* **The Goal:** A high-performance web dashboard for athletes mastering DIY gym equipment and custom workout plan requirements.
 * **Features:** Real-time WOD deployment, historical performance analytics, and a "Rest Day" recovery protocol.
 * **Tech:** React.js, Firebase (Firestore/Auth), Tailwind CSS.
 
@@ -82,7 +82,9 @@ When I'm not debugging or architecting systems:
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="[https://github-profile-trophy.vercel.app/?username=omsusi&theme=radical&column=7](https://github-profile-trophy.vercel.app/?username=omsusi&theme=radical&column=7)" alt="github trophy" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=omsusi&theme=radical&column=7" alt="github trophy" />
+
 </p>
 
 ---
@@ -90,9 +92,14 @@ When I'm not debugging or architecting systems:
 ### 📫 Connect with me
 
 <p align="left">
-<a href="[https://linkedin.com/in/omsubhra-singha-30447a254](https://linkedin.com/in/omsubhra-singha-30447a254)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-<a href="mailto:omsubhrasingha21@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
-<a href="[https://www.facebook.com/omsubhra.singha](https://www.facebook.com/omsubhra.singha)"><img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" /></a>
-<a href="[https://www.instagram.com/omsubhra_singha_/](https://www.instagram.com/omsubhra_singha_/)"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" /></a>
+  
+  <a href="[https://linkedin.com/in/omsubhra-singha-30447a254](https://linkedin.com/in/omsubhra-singha-30447a254)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+  <a href="mailto:omsubhrasingha21@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+  <a href="[https://www.facebook.com/omsubhra.singha](https://www.facebook.com/omsubhra.singha)"><img src="[https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" /></a>
+  <a href="[https://www.instagram.com/omsubhra_singha_/](https://www.instagram.com/omsubhra_singha_/)"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" /></a>
+
 </p>
+
+
+
 
