@@ -1,60 +1,44 @@
-# 👋 Hi, I'm Omsubhra
+# 👋 Hi, I'm Omsubhra Singha
 
 <p align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ECE+Graduate;AI+%26+Software+Enthusiast;Custom+Web+Scraper;DIY+Maker+%26+Engineer" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ECE+Graduate+(2025);Edge+AI+Enthusiast;AI-Native+Systems+Architect;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am an **Electronics and Communication Engineering (ECE)** graduate operating at the intersection of low-level hardware logic and high-level software creativity. I am a "Builder-Learner" who views code as a tool for solving real-world friction and hardware as the physical foundation of innovation.
+I am an **Electronics and Communication Engineering (ECE)** graduate from **NIT Arunachal Pradesh** operating at the hardware-software interface. I am a "Builder-Learner" who views development as an infinite journey. My focus is on engineering foundational, self-contained systems that solve complex data retrieval and monitoring challenges.
 
-* **🤖 AI Integration:** I specialize in partnering with AI to bridge the gap between complex conceptual ideas and functional, mission-critical code.
-* **🕸 Data Intelligence:** Architecting specialized scraping tools that handle the "unscrapable"—preserving data integrity across complex technical structures.
-* **📡 ECE Core:** My roots in ECE allow me to develop software with a deep understanding of hardware interaction, latency, and resource optimization.
-
----
-
-### 💼 Professional Services
-
-**I am open for commissions and collaborative projects.** I deliver reliable, maintainable, and high-performance solutions in:
-
-* **Custom Web Scraping:** High-fidelity data extraction (PDF, Excel, JSON) with specialized support for technical diagrams, math symbols, and anti-bot bypass.
-* **Custom Software Development:** End-to-end web applications and desktop tools tailored to automate specific workflows.
-* **Embedded Systems & IoT:** Custom firmware and software for microcontrollers/microcomputers (Raspberry Pi, ESP32, Arduino) designed for edge performance.
-
-📫 **Let's Talk:** [LinkedIn](https://linkedin.com/in/omsubhra-singha-30447a254) | [Email](mailto:omsubhrasingha21@gmail.com)
+* **🤖 AI-Native Engineering:** I orchestrate a **100% AI-augmented coding workflow** to bridge the gap between complex architectural concepts and production-grade deployment.
+* **📡 Integrated Systems:** My roots in ECE allow me to build software with a deep understanding of hardware interaction, latency optimization, and data sovereignty.
+* **⚙️ Scalable Automation:** I architect modular frameworks designed to transform unstructured web data into high-fidelity intelligence.
 
 ---
 
 ### 🏗 Featured Projects
 
-#### [Edge-AI Lecture Summarizer](https://github.com/omsusi/EdgeAI-Lecture-Summarizer)
-
+#### [Edge AI Lecture Summarizer](https://github.com/omsusi/EdgeAI-Lecture-Summarizer)
 *Accent-Tuned Edge-AI for Automated Transcription & Summarization*
+* **Recognition:** Accepted for publication at **IEEE Elexcom 2025**.
+* **The Problem:** Most models struggle with Indian English accents in offline, resource-constrained academic settings.
+* **The Metric:** Fine-tuned Whisper models to enhance transcription accuracy from **2.50% to 58.75%**.
+* **Tech:** Python, PyTorch, Raspberry Pi 4B, HuggingFace.
+* **Roadmap:** Currently evolving this foundational framework from "acceptable latency" to real-time performance via parallel processing.
 
-* **The Problem:** Most AI models struggle with specific Indian English accents in academic settings.
-* **The Solution:** A self-contained IoT system (Raspberry Pi) using a fine-tuned OpenAI Whisper model. It provides offline, privacy-first transcription and abstractive summarization.
-* **Tech:** Python, PyTorch, HuggingFace, Raspberry Pi 4B.
+#### [WBRI: Lead Intelligence Framework](https://github.com/omsusi/wb_recruitment_lead_framework)
+*Autonomous Ingestion & Invariant Deduplication Engine*
+* **The Goal:** A highly customizable framework to eliminate information asymmetry across 13+ portals.
+* **The Metrics:** Successfully processed **1,200+ raw links** in a single cycle with a **5.3-minute** maintenance run.
+* **Innovation:** Uses a Session-Invariant Deduplication Engine to maintain 100% data integrity despite dynamic URL structures.
+* **Tech:** Python (Selenium/Playwright), SQL-backed state persistence, Automated Scheduled Cycles.
 
-#### [TRIARII: Tactical Fitness Protocol](https://github.com/omsusi/triarii-system)
-
-*Military-Themed CrossFit Management & Performance Tracker*
-
-* **The Goal:** A high-performance web dashboard for athletes mastering DIY gym equipment and custom workout plan requirements.
-* **Features:** Real-time WOD deployment, historical performance analytics, and a "Rest Day" recovery protocol.
+#### [TRIARII: Performance Hub](https://triarii.qzz.io/)
+*ERP-Grade Performance Deployment & Logging System*
+* **The Goal:** A scalable deployment ecosystem built on **ERP fundamentals** (monitoring, resource scheduling, and analytics).
+* **Features:** 7-day batch mission scheduling and temporal access control.
 * **Tech:** React.js, Firebase (Firestore/Auth), Tailwind CSS.
-
-#### [Sanfoundry Scraper Suite (PC & Web)](https://github.com/omsusi/sanfoundry-scraper-pc-based)
-
-*Reliable, Image-Aware Data Extraction for Engineers*
-
-* **Precision:** Captures complex MCQ structures, math subscripts/superscripts, and technical diagrams.
-* **Reliability:** Features a State-Persistence Engine (resume-on-crash), Vignette-awareness, and automated PDF compilation.
-* **Tech:** SeleniumBase, Playwright, BeautifulSoup4.
+* **Customization:** I host customized CrossFit plans here for anyone looking to scale their physical performance.
 
 ---
 
@@ -62,47 +46,42 @@ I am an **Electronics and Communication Engineering (ECE)** graduate operating a
 
 | Category | Skills & Technologies |
 | --- | --- |
-| **Data & Automation** | Python (Scrapy, SeleniumBase, Playwright), Data Structuring, Bot Mitigation |
-| **Development** | React.js, Node.js, Firebase, Tailwind CSS, AI-Assisted Prototyping |
-| **AI / ML** | Model Fine-tuning (Whisper), Prompt Engineering, Neural Network Implementation |
-| **Embedded & ECE** | C/C++, Circuit Design, Microcomputers (RPi), Sensors & IoT Architecture |
+| **Integrated Systems** | Python, React.js, Firebase, Node.js, AI-Assisted Architecture |
+| **Automation & Data** | Scalable Ingestion, Bot Mitigation, Session-Invariant Logic, SQL |
+| **Edge AI / ML** | Whisper Fine-tuning, NLP Pipelines, Hardware-Software Integration |
+| **ECE Core** | C/C++, Embedded C, IoT Architecture, Resource-Constrained Optimization |
 
 ---
 
-### 🏋️‍♂️ Beyond the Code
+### 💼 Professional Services
 
-When I'm not debugging or architecting systems:
+I am open to collaborative projects and specialized engineering tasks:
+* **Custom Data Intelligence:** High-fidelity scraping (PDF/MCQ/Math symbols) for technical domains.
+* **End-to-End Applications:** Custom React/Firebase hubs for specific workflow automation.
+* **Embedded & IoT Solutions:** Custom firmware for RPi/ESP32 focused on edge-AI performance.
 
-* **CrossFit:** Training as a "Tactical Athlete" to push physical limits.
-* **DIY Maker:** Designing and building my own gym equipment from scratch.
-* **Cycling:** Exploring trails and testing endurance on two wheels.
+📫 **Let's Talk:** [LinkedIn](https://linkedin.com/in/omsubhra-singha-30447a254) | [Email](mailto:omsubhrasingha21@gmail.com)
+
+---
+
+### 🏋️‍♂️ The Discipline
+
+When I'm not architecting systems, I apply the same rigor to my physical training:
+* **CrossFit Athlete:** Dedicated training since 2020 (via Wodwell.com).
+* **DIY Maker:** Engineering custom equipment and prototyping physical solutions.
+* **Builder Mindset:** I believe persistence and meticulous optimization are the keys to building robust systems that scale.
 
 ---
 
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omsusi&show_icons=true&theme=radical&rank_icon=github&count_private=true)
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&layout=compact&theme=radical)
-
-
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=omsusi&theme=radical&column=7" alt="github trophy" />
-
-</p>
 
 ---
 
 ### 📫 Connect with me
 
 <p align="left">
-
-<a href="https://linkedin.com/in/omsubhra-singha-30447a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-
-
-
+<a href="https://linkedin.com/in/omsubhra-singha-30447a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
