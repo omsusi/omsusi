@@ -88,4 +88,6 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=omsusi.profile)
+![Unique Visitors](https://github-visitor-counter-six.vercel.app/api/unique/omsusi)
+![Daily Visitors](https://github-visitor-counter-six.vercel.app/api/daily/omsusi)
+![Page Views](https://github-visitor-counter-six.vercel.app/api/views/omsusi)
