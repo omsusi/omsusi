@@ -85,3 +85,9 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 <p align="left">
 <a href="https://linkedin.com/in/omsubhra-singha-30447a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=omsusi&color=blue&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=omsusi&repo=omsusi&countColor=%237B1E7A)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fomsusi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
