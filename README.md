@@ -88,6 +88,8 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 
 ---
 
-![Unique Visitors](https://github-visitor-counter-six.vercel.app/api/unique/omsusi)
-![Daily Visitors](https://github-visitor-counter-six.vercel.app/api/daily/omsusi)
-![Page Views](https://github-visitor-counter-six.vercel.app/api/views/omsusi)
+### 📊 Visitor Analytics
+
+| Unique Humans | Returning Fans | Automated Bots |
+| :--- | :--- | :--- |
+| ![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique) | ![Returning](https://github-visitor-counter-six.vercel.app/counter.svg?type=returning) | ![Bots](https://github-visitor-counter-six.vercel.app/counter.svg?type=bots) |
