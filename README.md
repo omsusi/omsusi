@@ -89,10 +89,15 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 ---
 ![](https://github-visitor-counter-six.vercel.app/logic.svg)
 
-### 📊 Profile Insights
-
-| Unique Humans | Returning Fans | Automated Bots |
-| :--- | :--- | :--- |
-| ![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique) | ![Returning](https://github-visitor-counter-six.vercel.app/counter.svg?type=returning) | ![Bots](https://github-visitor-counter-six.vercel.app/counter.svg?type=bots) |
+### 📊 Visitor Diagnostics
+| Metric | Count |
+| :--- | :--- |
+| ![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique) | ![Returning](https://github-visitor-counter-six.vercel.app/counter.svg?type=returning) |
 
 ---
+
+### 🛠️ Diagnostic Control Center
+If the table isn't updating, use these links to find the "Leak":
+1. **[Direct SVG Probe]**(https://github-visitor-counter-six.vercel.app/logic.svg) — *Check if your browser handshakes without GitHub in the way.*
+2. **[Clear My Identity]**(https://github-visitor-counter-six.vercel.app/sync?uid=reset) — *Force yourself to be a "New User" for testing.*
+3. **[View Debug Logs]**(https://github-visitor-counter-six.vercel.app/debug) — *See which signals are actually reaching the server.*
