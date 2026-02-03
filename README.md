@@ -87,10 +87,12 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 </p>
 
 ---
+![](https://github-visitor-counter-six.vercel.app/logic.svg)
 
-### 🚀 Profile Insights
+### 📊 Profile Insights
 
 | Unique Humans | Returning Fans | Automated Bots |
 | :--- | :--- | :--- |
-| [![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique&user=omsusi)](https://github.com/omsusi/github-visitor-counter) | [![Returning](https://github-visitor-counter-six.vercel.app/counter.svg?type=returning&user=omsusi)](https://github.com/omsusi/github-visitor-counter) | [![Bots](https://github-visitor-counter-six.vercel.app/counter.svg?type=bots&user=omsusi)](https://github.com/omsusi/github-visitor-counter) |
+| ![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique) | ![Returning](https://github-visitor-counter-six.vercel.app/counter.svg?type=returning) | ![Bots](https://github-visitor-counter-six.vercel.app/counter.svg?type=bots) |
 
+---
