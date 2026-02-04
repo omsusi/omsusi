@@ -87,16 +87,11 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 </p>
 
 ---
-### 🕵️‍♂️ Handshake Pentest Suite (Vercel Build)
+### 🕵️‍♂️ Active Pentest (Bypass Check)
 
-| Vector Type | Status / Counter |
+| Vector | Live Image |
 | :--- | :--- |
-| **Control (Base Proxy)** | ![Logic](https://github-visitor-counter-six.vercel.app/logic.svg?v=test_control) |
-| **CSS Import (Nested)** | ![CSS](https://github-visitor-counter-six.vercel.app/vector/css_import.svg?v=test_css) |
-| **SMIL Animation** | ![SMIL](https://github-visitor-counter-six.vercel.app/vector/smil_anim.svg?v=test_smil) |
-| **Direct Gate (The "Truth")** | [Click to Verify Handshake](https://github-visitor-counter-six.vercel.app/log/manual_click) |
+| **CSS Import** | ![Test]([https://github-visitor-counter-six.vercel.app/vector/css_import.svg?t=12345) |
 
----
-
-### 📊 Real-Time unique Visitors
-![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique&v=final_fix)
+> [!TIP]
+> Change the `?t=12345` to a different number every time you want to force a new log entry.
