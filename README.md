@@ -87,8 +87,16 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 </p>
 
 ---
-![](https://github-visitor-counter-six.vercel.app/logic.svg?v=final_fix)
+### 🕵️‍♂️ Handshake Pentest Suite (Vercel Build)
 
-| Visitors |
-| :--- |
-| ![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique&v=final_fix) |
+| Vector Type | Status / Counter |
+| :--- | :--- |
+| **Control (Base Proxy)** | ![Logic](https://github-visitor-counter-six.vercel.app/logic.svg?v=test_control) |
+| **CSS Import (Nested)** | ![CSS](https://github-visitor-counter-six.vercel.app/vector/css_import.svg?v=test_css) |
+| **SMIL Animation** | ![SMIL](https://github-visitor-counter-six.vercel.app/vector/smil_anim.svg?v=test_smil) |
+| **Direct Gate (The "Truth")** | [Click to Verify Handshake](https://github-visitor-counter-six.vercel.app/log/manual_click) |
+
+---
+
+### 📊 Real-Time unique Visitors
+![Uniques](https://github-visitor-counter-six.vercel.app/counter.svg?type=unique&v=final_fix)
