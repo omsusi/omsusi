@@ -79,13 +79,3 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omsusi&layout=compact&theme=radical)
 
 ---
-
----
-### 🕵️‍♂️ Active Pentest (Bypass Check)
-
-| Vector | Live Image |
-| :--- | :--- |
-| **CSS Import** | ![Test]([https://github-visitor-counter-six.vercel.app/vector/css_import.svg?t=12345) |
-
-> [!TIP]
-> Change the `?t=12345` to a different number every time you want to force a new log entry.
