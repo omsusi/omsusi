@@ -80,12 +80,6 @@ When I'm not architecting systems, I apply the same rigor to my physical trainin
 
 ---
 
-### 📫 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/omsubhra-singha-30447a254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 ---
 ### 🕵️‍♂️ Active Pentest (Bypass Check)
 
