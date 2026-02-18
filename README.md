@@ -60,7 +60,7 @@ I am open to collaborative projects and specialized engineering tasks:
 * **End-to-End Applications:** Custom React/Firebase hubs for specific workflow automation.
 * **Embedded & IoT Solutions:** Custom firmware for RPi/ESP32 focused on edge-AI performance.
 
-📫 **Let's Talk:** [LinkedIn](https://linkedin.com/in/omsubhra-singha-30447a254) | [Email](mailto:omsubhrasingha21@gmail.com)
+📫 **Let's Talk:** [LinkedIn](https://www.linkedin.com/in/omsubhra-singha) | [Email](mailto:omsubhrasingha21@gmail.com)
 
 ---
 
