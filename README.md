@@ -1,52 +1,68 @@
-# 🛡️ OMSUBHRA SINGHA // AI-Native Systems Architect
+# 🛡️ OMSUBHRA SINGHA // [SYSTEM_IN_PERPETUAL_BETA]
 
 <p align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ECE+Graduate+(2025);Edge+AI+Enthusiast;AI-Native+Systems+Architect;Continuous+Learner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ECE+Graduate+(2025);Edge+AI+Enthusiast;AI-Native+Systems+Architect;Continuous+Learner)" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ECE+Graduate+(2025);Edge+AI+Enthusiast;AI-Native+Systems+Architect;Continuous+Learner" alt="Typing SVG" />
+
 </p>
 
-I am an **Electronics and Communication Engineering (ECE)** graduate from **NIT Arunachal Pradesh** specializing in the intersection of hardware and AI. I build high-integrity, autonomous systems designed to solve complex data retrieval and monitoring challenges.
+I don't claim expertise; I claim **persistence**. I am an **Electronics & Communication Engineering (ECE)** graduate from **NIT Arunachal Pradesh** operating at the hardware-software interface. I view systems as living organisms—constantly evolving, breaking, and being rebuilt. I utilize a **High-Velocity AI Workflow** to accelerate development, treating AI as a pair-programmer. This allows me to focus on learning new architectural patterns and ensuring the final system is robust, debugged, and optimized..
 
 ---
 
-### 🏗️ Featured Engineering Lab
+### 🏗️ The Laboratory (Featured Projects)
 
-#### **[Indic-Edge-Scribe](https://github.com/omsusi/EdgeAI-Lecture-Summarizer) (Edge AI)**
+#### **[Indic-Edge-Scribe](https://github.com/omsusi/EdgeAI-Lecture-Summarizer) // Edge AI & NLP**
 
-*Accent-Tuned Edge-AI for Automated Transcription & Summarization.*
+*Accent-Tuned Offline Transcription for Indian Academic Environments.*
 
-* **Metric:** Enhanced Indian English transcription accuracy from  to ****.
+* **The Impact:** Fine-tuned Whisper models to boost transcription accuracy from ** to **.
 * **Recognition:** Accepted for publication at **IEEE Elexcom 2025**.
-* **Tech:** Python, PyTorch, Raspberry Pi 4B, HuggingFace.
+* **The Core:** Python, PyTorch, Raspberry Pi 4B, HuggingFace.
 
-#### **[TRIARII: Performance Hub](https://triarii.qzz.io/) (ERP Web App)**
+#### **[TRIARII: Performance Hub](https://triarii.qzz.io/) // Tactical ERP**
 
-*Tactical Performance Monitoring & Mission Deployment System.*
+*Serverless Performance Monitoring & Mission Deployment System.*
 
-* **Performance:** Optimized for "Tactical UX" with ** Total Blocking Time**.
-* **Architecture:** React 18, Firebase (Firestore/Auth), Tailwind CSS.
-* **Security:** Implements Temporal Access Control (TAC) and Role-Based Access logic.
+* **The Feat:** Optimized for "Tactical UX" with a ** Total Blocking Time**.
+* **System:** React 18, Firebase (Live Listeners), Temporal Access Control (TAC) logic.
 
-#### **[WBRI: Lead Intelligence Framework](https://github.com/omsusi/wb_recruitment_lead_framework) (Automation)**
+#### **[WBRI: Lead Framework](https://github.com/omsusi/wb_recruitment_lead_framework) // Intelligence**
 
-*Autonomous Ingestion & Invariant Deduplication Engine.*
+*Autonomous Ingestion Engine for 13+ high-volatility portals.*
 
-* **Metric:** Successfully processed ** raw links** in a single cycle.
-* **Innovation:** Features a Session-Invariant Deduplication Engine to maintain data integrity across  portals.
+* **The Metric:** Successfully processed ** raw links** in a single cycle.
+* **Innovation:** Session-Invariant Deduplication to maintain data integrity against dynamic URLs.
+
+#### **[Sanfoundry Scraper Suite](https://www.google.com/search?q=https://github.com/omsusi/sanfoundry-scraper-pc-based) // Data Extraction**
+
+*High-fidelity MCQ extraction with Zero-Trace execution.*
+
+* **Variants:** **Portable PC EXE** (Zero-Download) & **Dockerized Web App**.
+* **Capability:** Handles complex math symbols and Base64 diagram embedding for offline PDFs.
+
+#### **[The Failed Handshake](https://www.google.com/search?q=https://github.com/omsusi/github-visitor-counter) // Security Research**
+
+*An architectural autopsy of GitHub’s "Camo" Proxy security boundaries.*
+
+* **The Study:** Forensic analysis of ETag persistence, CSS-injection blocks, and font-fingerprinting.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-* **Integrated Systems:** Python, React.js, Firebase, Node.js, AI-Orchestrated Architecture.
-* **Edge AI / ECE:** Whisper Fine-tuning, NLP Pipelines, Embedded C, IoT Optimization.
-* **Data Engineering:** High-fidelity scraping (Selenium/Playwright), SQL, Bot Mitigation.
-* **Diagnostic Research:** [The Failed Handshake](https://www.google.com/search?q=https://github.com/omsusi/github-visitor-counter) (An architectural autopsy of GitHub Proxy security boundaries).
+| Sector | Stack & Capabilities |
+| --- | --- |
+| **Integrated Systems** | Python, React.js, Next.js 15, Firebase, Node.js |
+| **Automation** | Selenium/Playwright (Stealth), SQL, Bot Mitigation, CI/CD |
+| **Edge & Hardware** | Whisper Fine-tuning, Raspberry Pi, Embedded C, ESP32 |
+| **The Edge** | 100% AI-Native Orchestration, LLM Pipelines, Vector-Native Design |
 
 ---
 
-### 💼 Professional Services (Open for Hire)
+### 💼 Professional Services (For Hire)
 
-I am available for specialized engineering tasks and collaborative projects:
+I build specific solutions for complex, technical problems:
 
 * **Custom Data Intelligence:** High-fidelity scraping (PDF/MCQ/Math symbols) for technical domains.
 * **End-to-End Applications:** Custom React/Firebase hubs for specific workflow automation.
@@ -54,6 +70,15 @@ I am available for specialized engineering tasks and collaborative projects:
 
 ---
 
+### 🏋️‍♂️ The Discipline
+
+I apply the same rigor to my physical systems as I do to my code:
+
+* **CrossFit Athlete:** Dedicated training since 2020 via **Wodwell.com**.
+* **Philosophy:** Persistence and meticulous optimization are the only paths to scale.
+
+---
+
 ### 🛰️ Connectivity
 
-**[Portfolio (Edge-Optimized)](https://omsubhra-singha.pages.dev)** | **[LinkedIn](https://www.linkedin.com/in/omsubhra-singha)** | **[Email](mailto:omsubhrasingha21@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/omsubhra-singha)** | **[Edge Portfolio](https://omsubhra-singha.pages.dev)** | **[Email](mailto:omsubhrasingha21@gmail.com)**
