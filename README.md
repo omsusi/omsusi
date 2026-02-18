@@ -14,11 +14,12 @@ I don't claim expertise; I claim **persistence**. I am an **Electronics & Commun
 
 #### **[Indic-Edge-Scribe](https://github.com/omsusi/EdgeAI-Lecture-Summarizer) // Edge AI & NLP**
 
-*Accent-Tuned Offline Transcription for Indian Academic Environments.*
+*Accent-Tuned Offline Transcription and summarization for Custom Applications.*
 
-* **The Impact:** Fine-tuned Whisper models to boost transcription accuracy from ** to **.
+* **The Impact:** Fine-tuned Whisper models to boost transcription accuracy from **2.50%** to **58.75%**.
 * **Recognition:** Accepted for publication at **IEEE Elexcom 2025**.
 * **The Core:** Python, PyTorch, Raspberry Pi 4B, HuggingFace.
+* **Fine Tuned Whisper-small:** (https://github.com/omsusi/whisper-small-indian-accent)
 
 #### **[TRIARII: Performance Hub](https://triarii.qzz.io/) // Tactical ERP**
 
