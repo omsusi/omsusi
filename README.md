@@ -57,5 +57,3 @@ I am available for specialized engineering tasks and collaborative projects:
 ### 🛰️ Connectivity
 
 **[Portfolio (Edge-Optimized)](https://omsubhra-singha.pages.dev)** | **[LinkedIn](https://www.linkedin.com/in/omsubhra-singha)** | **[Email](mailto:omsubhrasingha21@gmail.com)**
-
-Would you like me to generate a matching **LinkedIn About section** or a **minimalist resume** based on this updated profile?
