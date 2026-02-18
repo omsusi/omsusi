@@ -25,7 +25,7 @@ I don't claim expertise; I claim **persistence**. I am an **Electronics & Commun
 
 *Serverless Performance Monitoring & Mission Deployment System.*
 
-* **The Feat:** Optimized for "Tactical UX" with a ** Total Blocking Time**.
+* **The Feat:** Optimized for "Tactical UX" with a **120ms** Total Blocking Time**.
 * **System:** React 18, Firebase (Live Listeners), Temporal Access Control (TAC) logic.
 * **Repo:** (https://github.com/omsusi/triarii-system) 
 
@@ -33,7 +33,7 @@ I don't claim expertise; I claim **persistence**. I am an **Electronics & Commun
 
 *Autonomous Ingestion Engine for 13+ high-volatility portals.*
 
-* **The Metric:** Successfully processed ** raw links** in a single cycle.
+* **The Metric:** Successfully processed **1200+ raw links** in a single cycle currently storing 957 existing entries to prevent duplication.
 * **Innovation:** Session-Invariant Deduplication to maintain data integrity against dynamic URLs.
 
 #### **[Sanfoundry Scraper Suite](https://github.com/omsusi/sanfoundry-scraper-pc-based) // Data Extraction**
