@@ -35,14 +35,14 @@ I don't claim expertise; I claim **persistence**. I am an **Electronics & Commun
 * **The Metric:** Successfully processed ** raw links** in a single cycle.
 * **Innovation:** Session-Invariant Deduplication to maintain data integrity against dynamic URLs.
 
-#### **[Sanfoundry Scraper Suite](https://www.google.com/search?q=https://github.com/omsusi/sanfoundry-scraper-pc-based) // Data Extraction**
+#### **[Sanfoundry Scraper Suite](https://github.com/omsusi/sanfoundry-scraper-pc-based) // Data Extraction**
 
 *High-fidelity MCQ extraction with Zero-Trace execution.*
 
 * **Variants:** **Portable PC EXE** (Zero-Download) & **Dockerized Web App**.
 * **Capability:** Handles complex math symbols and Base64 diagram embedding for offline PDFs.
 
-#### **[The Failed Handshake](https://www.google.com/search?q=https://github.com/omsusi/github-visitor-counter) // Security Research**
+#### **[The Failed Handshake](https://github.com/omsusi/Github-Visitor-Counter-Myth) // Security Research**
 
 *An architectural autopsy of GitHub’s "Camo" Proxy security boundaries.*
 
