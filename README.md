@@ -26,6 +26,7 @@ I don't claim expertise; I claim **persistence**. I am an **Electronics & Commun
 
 * **The Feat:** Optimized for "Tactical UX" with a ** Total Blocking Time**.
 * **System:** React 18, Firebase (Live Listeners), Temporal Access Control (TAC) logic.
+* **Repo:** (https://github.com/omsusi/triarii-system) 
 
 #### **[WBRI: Lead Framework](https://github.com/omsusi/wb_recruitment_lead_framework) // Intelligence**
 
